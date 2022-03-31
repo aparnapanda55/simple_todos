@@ -1,16 +1,20 @@
 # simple_todos
 
-A new Flutter project.
+## Features
 
-## Getting Started
+Following have been implemented
 
-This project is a starting point for a Flutter application.
+- user authentication
+- create new todo with text and date
+- view todos grouped by date
+- change status of the todo
+- delete todo
+- stay synced with firebase
 
-A few resources to get you started if this is your first Flutter project:
+The web version can be found at [https://simple-todos-47973.web.app](https://simple-todos-47973.web.app). This has all the above features.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> To run the app locally, the debug SHA1 hash needs to be added in the firebase console.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+![](todo.gif)
